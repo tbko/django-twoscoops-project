@@ -1,3 +1,10 @@
+.. image:: https://codeship.com/projects/85485730-9b86-0134-ff29-522ce3bf1491/status?branch=master
+   :name: Codeship status
+   :align: center
+   :alt: Codeship status
+   :target: https://codeship.com/projects/85485730-9b86-0134-ff29-522ce3bf1491/status?branch=master
+
+
 ========================
 django-twoscoops-project
 ========================
